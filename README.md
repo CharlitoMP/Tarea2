@@ -1,0 +1,1 @@
+Este programa escrita en C, está hecho con el proposito de medir el rendimiento de los algoritmos Bubble Sort y Selection Sort, haciendo una lista con valores aleatorios y un tamaño elegido por el usuario.
